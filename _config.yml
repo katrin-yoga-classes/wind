@@ -1,10 +1,10 @@
-domain: example.com
-url: https://example.com
-baseurl: "/wind"
+domain: katrin-yoga-classes.github.io
+url: https://katrin-yoga-classes.github.io
+baseurl: ""
 
-title: Wind
-email: wind@example.com
-author: Wind Sample
+title: Katrin Yoga Classes
+email: katrin.yoga.classes@gmail.com
+author: Katrin 
 
 lang: en
 
