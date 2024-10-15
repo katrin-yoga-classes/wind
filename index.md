@@ -1,7 +1,7 @@
 ---
 layout: home
 ---
-# Welcome
+# Katrin Yoga Classes
 
 Hello World. Hello Friend.
 
