@@ -1,7 +1,7 @@
 ---
 layout: home
 ---
-# Katrin Yoga Classes
+# Welcome
 
-Hello World. Hello Friend.
+AUM & Namaste 
 
