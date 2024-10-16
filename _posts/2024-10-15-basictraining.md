@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Basic Training'
-image: /assets/images/example4.jpg
+image: /assets/images/Yoga_om.jpg
 tags:
   - outline
 pin: true
