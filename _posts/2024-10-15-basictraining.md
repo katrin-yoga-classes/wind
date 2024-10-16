@@ -7,20 +7,16 @@ tags:
 pin: true
 ---
 
-Basic Training comprises 40 lessons, of which each lesson is split into three main parts: 
+Basic Training comprises 40 lessons with the following topics: 
 
-Asanas (physical exercises)
-Meditation (energy exercises) 
-Theory 
+## Asanas
 
-## Part 1: Asanas
-
-## Part 2: Meditation
+## Energy exercises
 
 - Kriya (Lesson 13-32)
 - Pranayama (Lesson 19+)
 
-## Part 3: Theory
+## Theory
 
 - Yamas (Lesson 1-5)
 - Niyamas (Lesson 6-10)
