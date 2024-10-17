@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Teacher Training'
-image: /assets/images/example4.jpg
+image: /assets/images/Yoga_om.png
 tags:
-  - outline
+  - course
 ---
