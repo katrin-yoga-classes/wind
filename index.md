@@ -3,29 +3,3 @@ layout: home
 ---
 
 ## Welcome
-
-<!-- Courses first -->
-### Courses
-
-{% assign courses = site.posts | where_exp: "post", "post.tags contains 'course'" | sort %}
-<div class="md:w-4/5 mx-auto gap-4 md:gap-6 columns-2 md:columns-3 mb-10">
-  {% for post in courses %}
-  <div class="md:fadeIn pb-8 mb-8 break-inside-avoid-column ">
-    <div
-      class="hover:underline hover:decoration-2>
-      <a href="{{ post.url | relative_url }}">
-        <img src="{{ post.image | relative_url }}" alt="" class="w-full max-w-screen-sm h-auto shadow-md">
-        <h2 class="text-lg md:text-xl lg:text-2xl pt-5 text-ellipsis overflow-hidden">{{post.title}}</h2>
-      </a>
-    </div>
-
-    <div class="pt-2">
-      {% for tag in post.tags limit:3 %}
-      <span class="text-xs text-slate-700 dark:text-slate-100/80 align-middle">#{{tag}}</span>
-      {% endfor %}
-    </div>
-  </div>
-  {% endfor %}
-</div>
-
-### All Posts
