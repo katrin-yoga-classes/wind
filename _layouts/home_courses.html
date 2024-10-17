@@ -8,7 +8,7 @@ layout: base
 </div>
 
 <!-- Find all relevant course posts -->
-{% assign courses = site.posts | where: 'tag', 'course' %}
+{% assign courses = site.posts | where_exp: "post", "post.tags contains 'course'" %}
 <div class="md:w-4/5 mx-auto gap-4 md:gap-6 columns-2 md:columns-3 mb-10">
   {% for post in courses %}
   <div class="md:fadeIn pb-8 mb-8 break-inside-avoid-column ">
